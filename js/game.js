@@ -697,7 +697,7 @@ function iHeartYou() {
     iframe.style.width = "100%";
     iframe.style.height = "100%";
     part.appendChild(iframe);
-  }, 6666);
+  }, 5000);
   setTimeout(function () {
     document.getElementById("whole_container").style.top = "-200%";
   }, 7300);
