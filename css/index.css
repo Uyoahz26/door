@@ -25,8 +25,9 @@ canvas{
 	position: relative;
 }
 #screen_one{
-	background-color: #bbb;
-	background-image: url(intro.png);
+	background-color: #e6e5e5;
+	background-image: url('./homepage.png');
+	background-size: 90%;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 }
