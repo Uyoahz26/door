@@ -692,7 +692,7 @@ function iHeartYou() {
   setTimeout(() => {
     const part = document.querySelector("#screen_three");
     const iframe = document.createElement("iframe");
-    iframe.src = "https://love.uyoahz.cn";
+    iframe.src = "https://baobei.uyoahz.cn";
     iframe.style.border = "none";
     iframe.style.width = "100%";
     iframe.style.height = "100%";
